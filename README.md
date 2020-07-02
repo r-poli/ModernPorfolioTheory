@@ -8,4 +8,8 @@ The implementation is made in Python 3 and the donwload of the data is made thro
 
 Enjoy, and happy trading!
 
-Riccardo 
+__Riccardo Poli__
+https://www.linkedin.com/in/riccardopoli/
+
+
+PS: feel free to reach out if you have ideas for improvement or if you spot bugs

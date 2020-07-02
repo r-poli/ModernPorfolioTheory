@@ -9,6 +9,7 @@ The implementation is made in Python 3 and the donwload of the data is made thro
 Enjoy, and happy trading!
 
 __Riccardo Poli__
+
 https://www.linkedin.com/in/riccardopoli/
 
 

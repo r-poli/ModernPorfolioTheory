@@ -1,4 +1,4 @@
-# ModernPorfolioTheory
+# Modern Porfolio Theory: finding the optimal portfolio 
 
 A live script to perform numerical simulations and find the best portfolio composition in accordance with the Modern Portfolio Theory by Harry Markowitz.
 

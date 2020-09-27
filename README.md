@@ -14,3 +14,5 @@ https://www.linkedin.com/in/riccardopoli/
 
 
 PS: feel free to reach out if you have ideas for improvement or if you spot bugs
+
+**Disclaimer: investing in the stock market involves risk and can lead to monetary loss. The content of this article is not to be taken as financial advice.**
